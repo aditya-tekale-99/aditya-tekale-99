@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Python
-- 🌱 I’m currently learning Data Structures (refreshing my memory)
-- ⚡ Fun fact: I am passionate about Algorithms and Data analytics. 
+- I am a recent gradute with a degree in Computer Science
+- Pasisonate about algorithms and data analytics.
+- Focusing on improving my skills further to be able to solve complex problems.
 <!--
 **aditya-tekale-99/aditya-tekale-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
