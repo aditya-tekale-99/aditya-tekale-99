@@ -17,7 +17,7 @@ class adi:
 
 ---
 
-Some of my cool projects:
+### Some of my cool projects:
  - ['Drone Delivery Simulation'](https://github.com/aditya-tekale-99/Drone-Delivery-Simulation) 
  - ['WeatherApp'](https://github.com/aditya-tekale-99/Android/tree/main/WeatherApp) 
  - ['Unquote'](https://github.com/aditya-tekale-99/Android/tree/main/Unquote) 
