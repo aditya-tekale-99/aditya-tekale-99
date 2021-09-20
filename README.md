@@ -2,7 +2,7 @@
 - I am a recent gradute with a degree in Computer Science
 - Pasisonate about algorithms and data analytics.
 - Focusing on improving my skills further to be able to solve complex problems. 
-- My strong skills are Python, C++, Java and SQL
+- My strong skills are Python, C++, and SQL
 <!--
 **aditya-tekale-99/aditya-tekale-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
