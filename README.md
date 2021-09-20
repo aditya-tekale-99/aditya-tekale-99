@@ -5,7 +5,7 @@
 
 ```python
 class adi:
-    print("Graduated from University of Minnesota in May 2021 with a Bachelor's in Computer Science")
+    print("Graduated from the University of Minnesota in May 2021 with a Bachelor's in CS")
     Pronouns = ['He, Him']
     Code = ['Python', 'SQL', 'C++', 'HTML', 'CSS', 'JavaScript']
     Tools = ['Tableau', 'PostgreSQL', 'Docker']
