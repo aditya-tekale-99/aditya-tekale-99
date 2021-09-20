@@ -10,6 +10,7 @@ class adi:
     Tools = ['Tableau', 'PostgreSQL', 'Docker']
     Interests = ['Data Analytics/Product Analytics', 'Data Structures & Algorithms']
     Hobbies = ['Android app development', 'Video games', 'Movies/Tv-shows']
+    Cool_projects = ['Drone Delivery Simulation', 'WeatherApp', 'Unquote', 'WanderLust', 'Restaurant Recommendation system']
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to connect and talk more!</b> :)</em>
