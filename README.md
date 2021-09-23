@@ -13,7 +13,7 @@ class adi:
     Hobbies = ['Android app development', 'Video games', 'Movies/Tv-shows']
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to connect and talk more!</b> :)</em> [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-tekale/)](https://www.linkedin.com/in/aditya-tekale/)
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to connect and talk more!</b> :)</em> [![Linkedin: thaianebraga](https://img.shields.io/badge/-adityatekale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-tekale/)](https://www.linkedin.com/in/aditya-tekale/)
 
 ---
 
