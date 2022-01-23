@@ -23,4 +23,3 @@ class adi:
  - ['Unquote'](https://github.com/aditya-tekale-99/Android/tree/main/Unquote) 
  - ['WanderLust'](https://github.com/aditya-tekale-99/HTML-CSS-JavaScript-Projects/tree/main/Wanderlust) 
  - ['Restaurant Recommendation system'](https://github.com/aditya-tekale-99/Python/tree/main/Restaurant%20Recommendation%20System) 
- - ['Netflix Analysis'](https://github.com/aditya-tekale-99/Data-Science-Portfolio/blob/main/Netflix-Titles/Netflix-Analysis.ipynb)
