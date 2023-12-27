@@ -10,7 +10,7 @@ class adi:
     Code = ['Python', 'SQL', 'C++', 'HTML', 'CSS', 'JavaScript']
     Tools = ['Tableau', 'PostgreSQL', 'Docker']
     Interests = ['Data Analytics/Product Analytics', 'Data Structures & Algorithms']
-    Hobbies = ['Android app development', 'Video games', 'Movies/Tv-shows']
+    Hobbies = ['Android app development, 'Video games', 'Movies/Tv-shows']
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to connect and talk more!</b></em> [![Linkedin: adityatekale](https://img.shields.io/badge/-adityatekale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-tekale/)](https://www.linkedin.com/in/aditya-tekale/)
@@ -18,6 +18,7 @@ class adi:
 ---
 
 ### Some of my cool projects:
+ - ['Game of Thrones Dashboard'](https://public.tableau.com/app/profile/aditya.tekale/viz/GOT_15985010604520/GOToveralldeathsdata) 
  - ['Drone Delivery Simulation'](https://github.com/aditya-tekale-99/Drone-Delivery-Simulation) 
  - ['WeatherApp'](https://github.com/aditya-tekale-99/Android/tree/main/WeatherApp) 
  - ['Unquote'](https://github.com/aditya-tekale-99/Android/tree/main/Unquote) 
