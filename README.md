@@ -15,9 +15,6 @@ class Adi:
         self.hobbies = ['Android app development', 'Video games', 'Movies/TV shows']
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to connect and talk more!</b></em> [![Linkedin: adityatekale](https://img.shields.io/badge/-adityatekale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-tekale/)](https://www.linkedin.com/in/aditya-tekale/)
-
----
 
 ### Some of my fun projects:
  - ['Game of Thrones Dashboard'](https://public.tableau.com/app/profile/aditya.tekale/viz/GOT_15985010604520/GOToveralldeathsdata) 
