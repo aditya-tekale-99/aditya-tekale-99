@@ -19,7 +19,7 @@ class Adi:
 
 ---
 
-### Some of my cool projects:
+### Some of my fun projects:
  - ['Game of Thrones Dashboard'](https://public.tableau.com/app/profile/aditya.tekale/viz/GOT_15985010604520/GOToveralldeathsdata) 
  - ['Drone Delivery Simulation'](https://github.com/aditya-tekale-99/Drone-Delivery-Simulation) 
  - ['WeatherApp'](https://github.com/aditya-tekale-99/Android/tree/main/WeatherApp) 
