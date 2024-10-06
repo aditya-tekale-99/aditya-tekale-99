@@ -4,13 +4,15 @@
 ### A little more about me...  
 
 ```python
-class adi:
-    print("Current Master's student at SJSU majoring in Data Analytics, Graduated from the University of Minnesota in May 2021 with a Bachelor's in Computer Science!")
-    Pronouns = ['He, Him']
-    Code = ['Python', 'SQL', 'C++', 'HTML', 'CSS', 'JavaScript']
-    Tools = ['Tableau', 'PostgreSQL', 'Docker']
-    Interests = ['Data Analytics/Product Analytics', 'Data Structures & Algorithms']
-    Hobbies = ['Android app development, 'Video games', 'Movies/Tv-shows']
+class Adi:
+    def __init__(self):
+        self.education = "Current Master's student at SJSU, majoring in Data Analytics. Graduated from the University of Minnesota with a Bachelor's in Computer Science."
+        self.pronouns = ['He', 'Him']
+        self.languages = ['Python', 'SQL', 'C++', 'R']
+        self.tools = ['Tableau', 'PostgreSQL', 'Docker', 'Airflow']
+        self.cloud = ['AWS S3', 'Redshift', 'BigQuery', 'Google Cloud Buckets', 'Snowflake']
+        self.ML = ['Pandas', 'Numpy', 'Seaborn', 'scikit-learn', 'Data Analysis', 'Data Science']
+        self.hobbies = ['Android app development', 'Video games', 'Movies/TV shows']
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to connect and talk more!</b></em> [![Linkedin: adityatekale](https://img.shields.io/badge/-adityatekale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aditya-tekale/)](https://www.linkedin.com/in/aditya-tekale/)
