@@ -6,7 +6,8 @@
 ```python
 class Adi:
     def __init__(self):
-        self.education = "Current Master's student at SJSU, majoring in Data Analytics. Graduated from the University of Minnesota with a Bachelor's in Computer Science."
+        self.currEducation = "Current Master's student at SJSU, majoring in Data Analytics."
+        self.pastEducation = "Graduated from the University of Minnesota with a Bachelor's in Computer Science."
         self.pronouns = ['He', 'Him']
         self.languages = ['Python', 'SQL', 'C++', 'R']
         self.tools = ['Tableau', 'PostgreSQL', 'Docker', 'Airflow']
