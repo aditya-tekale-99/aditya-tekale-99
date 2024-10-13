@@ -20,7 +20,7 @@ class Adi:
 ### Some of my fun projects:
  - ['Game of Thrones Dashboard'](https://public.tableau.com/app/profile/aditya.tekale/viz/GOT_15985010604520/GOToveralldeathsdata) 
  - ['Drone Delivery Simulation'](https://github.com/aditya-tekale-99/Drone-Delivery-Simulation) 
- - ['WeatherApp'](https://github.com/aditya-tekale-99/Android/tree/main/WeatherApp) 
+ - ['Stock Prediction Model'](https://github.com/aditya-tekale-99/Stock-Prediction) 
  - ['Unquote'](https://github.com/aditya-tekale-99/Android/tree/main/Unquote) 
  - ['WanderLust'](https://github.com/aditya-tekale-99/HTML-CSS-JavaScript-Projects/tree/main/Wanderlust) 
  - ['Restaurant Recommendation system'](https://github.com/aditya-tekale-99/Python/tree/main/Restaurant%20Recommendation%20System) 
