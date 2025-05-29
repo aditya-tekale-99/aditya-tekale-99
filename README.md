@@ -9,9 +9,9 @@ class Adi:
         self.currEducation = "Current Master's student at SJSU, majoring in Data Analytics."
         self.pastEducation = "Graduated from the University of Minnesota with a Bachelor's in Computer Science."
         self.pronouns = ['He', 'Him']
-        self.languages = ['Python', 'SQL', 'C++', 'R']
-        self.tools = ['Tableau', 'PostgreSQL', 'Docker', 'Airflow']
-        self.cloud = ['AWS S3', 'Redshift', 'BigQuery', 'Google Cloud Buckets', 'Snowflake']
+        self.languages = ['Python', 'SQL']
+        self.tools = ['Tableau', 'dbt', 'Docker', 'Airflow']
+        self.cloud = ['AWS S3', 'Snowflake']
         self.ML = ['Pandas', 'Numpy', 'Seaborn', 'scikit-learn', 'Data Analysis', 'Data Science']
         self.hobbies = ['Android app development', 'Video games', 'Movies/TV shows']
 ```
